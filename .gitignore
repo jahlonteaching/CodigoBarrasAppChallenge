@@ -1,0 +1,5 @@
+.idea
+.venv
+venv
+data/submissions/*.py
+data/results
